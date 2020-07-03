@@ -1,0 +1,13 @@
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\obj\Debug\netcoreapp3.1\Aula_Excel.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\obj\Debug\netcoreapp3.1\Aula_Excel.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\obj\Debug\netcoreapp3.1\Aula_Excel.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\obj\Debug\netcoreapp3.1\Aula_Excel.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\bin\Debug\netcoreapp3.1\Aula_Excel.exe
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\bin\Debug\netcoreapp3.1\Aula_Excel.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\bin\Debug\netcoreapp3.1\Aula_Excel.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\bin\Debug\netcoreapp3.1\Aula_Excel.runtimeconfig.dev.json
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\bin\Debug\netcoreapp3.1\Aula_Excel.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\bin\Debug\netcoreapp3.1\Aula_Excel.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\obj\Debug\netcoreapp3.1\Aula_Excel.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\obj\Debug\netcoreapp3.1\Aula_Excel.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Aula_Excel\obj\Debug\netcoreapp3.1\Aula_Excel.genruntimeconfig.cache
